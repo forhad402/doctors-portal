@@ -1,0 +1,9 @@
+.container .row{
+    padding:50px;
+    height:500px;
+}
+
+.row .each-column{
+    border:none;
+    box-shadow: 2px 3px 3px gray;
+}
